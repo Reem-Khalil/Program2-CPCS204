@@ -1,0 +1,552 @@
+Command: MAKECALL
+	Cannot perform MAKECALL. Account does not exist in FCIT Mobile System.
+
+Command: SENDTEXT
+	Cannot perform SENDTEXT. Account does not exist in FCIT Mobile System.
+
+Command: PAYBILL
+	Cannot perform PAYBILL. Account does not exist in FCIT Mobile System.
+
+Command: DELETECUSTOMER
+	Cannot perform DELETECUSTOMER. Account does not exist in FCIT Mobile System.
+
+Command: SEARCH
+	Cannot perform SEARCH. Account does not exist in FCIT Mobile System.
+
+Command: PAYBILLS
+	Cannot perform PAYBILLS. There is no any account exist in FCIT Mobile System.
+
+Command: DISPLAYDETAILS
+	Cannot perform DISPLAYDETAILS. Account does not exist in FCIT Mobile System.
+
+Command: ADDCUSTOMER
+	Name:          MONA DAWOOD
+	Customer ID:   1112788
+	Phone Number:  0508245146
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          GHAIDAA DEYA
+	Customer ID:   1118363
+	Phone Number:  0504739594
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          BASEM BAKER
+	Customer ID:   1110913
+	Phone Number:  0505871071
+	Balance:       30.00
+
+Command: MAKECALL
+	Name:           MONA DAWOOD
+	Phone Number:   0508245146
+	Number Called:  0502600321
+	Call Duration:  40 minutes
+	Call Cost:      8.00
+	New Balance:    22.00
+
+Command: SENDTEXT
+	Name:           BASEM BAKER
+	Phone Number:   0505871071
+	Number Texted:  0506277263
+	Text Cost:      0.08
+	New Balance:    29.92
+
+Command: MAKECALL
+	Name:           GHAIDAA DEYA
+	Phone Number:   0504739594
+	Number Called:  0507017285
+	Call Duration:  34 minutes
+	Call Cost:      6.80
+	New Balance:    23.20
+
+Command: ADDCUSTOMER
+	Name:          KHALED HELALl
+	Customer ID:   1114039
+	Phone Number:  0501059796
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          LAILA KAMEL
+	Customer ID:   1115035
+	Phone Number:  0502973034
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          WESAL DAWOOD
+	Customer ID:   1112777
+	Phone Number:  0506159247
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          JAMAL SAFAR
+	Customer ID:   1118970
+	Phone Number:  0502954918
+	Balance:       30.00
+
+Command: PAYBILLS
+	The following bills have been paid:
+		No bills were paid. All accounts had a balance greater than zero.
+
+Command: MAKECALL
+	Cannot perform MAKECALL. Account does not exist in FCIT Mobile System.
+
+Command: MAKECALL
+	Name:           MONA DAWOOD
+	Phone Number:   0508245146
+	Number Called:  0507815645
+	Call Duration:  38 minutes
+	Call Cost:      7.60
+	New Balance:    14.40
+
+Command: MAKECALL
+	Name:           KHALED HELALl
+	Phone Number:   0501059796
+	Number Called:  0506027988
+	Call Duration:  6 minutes
+	Call Cost:      1.20
+	New Balance:    28.80
+
+Command: MAKECALL
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Called:  0505902817
+	Call Duration:  28 minutes
+	Call Cost:      5.60
+	New Balance:    24.40
+
+Command: MAKECALL
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Called:  0501421518
+	Call Duration:  15 minutes
+	Call Cost:      3.00
+	New Balance:    21.40
+
+Command: SENDTEXT
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Texted:  0505654636
+	Text Cost:      0.08
+	New Balance:    21.32
+
+Command: MAKECALL
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Called:  0506539936
+	Call Duration:  38 minutes
+	Call Cost:      7.60
+	New Balance:    13.72
+
+Command: DELETECUSTOMER
+	Name:          BASEM BAKER
+	Customer ID:   1110913
+	Phone Number:  0505871071
+	Balance:       29.92
+	***Account has been deleted.
+
+Command: SENDTEXT
+	Cannot perform SENDTEXT. Account does not exist in FCIT Mobile System.
+
+Command: DISPLAYDETAILS
+	Name:           GHAIDAA DEYA
+	Customer ID:    1118363
+	Phone Number:   0504739594
+	Called Numbers and Duration:
+	0507017285 (34)
+	Texted Numbers:
+		(user has not made any calls yet)
+
+Command: SENDTEXT
+	Name:           GHAIDAA DEYA
+	Phone Number:   0504739594
+	Number Texted:  0507815645
+	Text Cost:      0.08
+	New Balance:    23.12
+
+Command: PAYBILL
+	Name:          MONA DAWOOD
+	Phone Number:  0508245146
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          LAMYAA RAOUF
+	Customer ID:   1117729
+	Phone Number:  0501957682
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          RAZAN DIAA
+	Customer ID:   1112357
+	Phone Number:  0509266461
+	Balance:       30.00
+
+Command: ADDCUSTOMER
+	Name:          HARITH YUSUF
+	Customer ID:   1120347
+	Phone Number:  0506871108
+	Balance:       30.00
+
+Command: DISPLAYDETAILS
+	Name:           WESAL DAWOOD
+	Customer ID:    1112777
+	Phone Number:   0506159247
+	Called Numbers and Duration:
+	0505902817 (28)
+	0501421518 (15)
+	0506539936 (38)
+	Texted Numbers:
+	0505654636
+
+Command: MAKECALL
+	Name:           GHAIDAA DEYA
+	Phone Number:   0504739594
+	Number Called:  0503968136
+	Call Duration:  25 minutes
+	Call Cost:      5.00
+	New Balance:    18.12
+
+Command: MAKECALL
+	Name:           KHALED HELALl
+	Phone Number:   0501059796
+	Number Called:  0503968136
+	Call Duration:  37 minutes
+	Call Cost:      7.40
+	New Balance:    21.40
+
+Command: SENDTEXT
+	Name:           GHAIDAA DEYA
+	Phone Number:   0504739594
+	Number Texted:  0503968136
+	Text Cost:      0.08
+	New Balance:    18.04
+
+Command: MAKECALL
+	Name:           RAZAN DIAA
+	Phone Number:   0509266461
+	Number Called:  0506027988
+	Call Duration:  6 minutes
+	Call Cost:      1.20
+	New Balance:    28.80
+
+Command: MAKECALL
+	Name:           GHAIDAA DEYA
+	Phone Number:   0504739594
+	Number Called:  0508036483
+	Call Duration:  28 minutes
+	Call Cost:      5.60
+	New Balance:    12.44
+
+Command: DISPLAYDETAILS
+	Name:           GHAIDAA DEYA
+	Customer ID:    1118363
+	Phone Number:   0504739594
+	Called Numbers and Duration:
+	0507017285 (34)
+	0503968136 (25)
+	0508036483 (28)
+	Texted Numbers:
+	0503968136
+	0507815645
+
+Command: MAKECALL
+	Name:           HARITH YUSUF
+	Phone Number:   0506871108
+	Number Called:  0502530076
+	Call Duration:  16 minutes
+	Call Cost:      3.20
+	New Balance:    26.80
+
+Command: PAYBILL
+	Name:          HARITH YUSUF
+	Phone Number:  0506871108
+	Balance:       30.00
+
+Command: MAKECALL
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Called:  0503276973
+	Call Duration:  40 minutes
+	Call Cost:      8.00
+	New Balance:    5.72
+
+Command: DISPLAYDETAILS
+	Name:           WESAL DAWOOD
+	Customer ID:    1112777
+	Phone Number:   0506159247
+	Called Numbers and Duration:
+	0505902817 (28)
+	0501421518 (15)
+	0506539936 (38)
+	0503276973 (40)
+	Texted Numbers:
+	0505654636
+
+Command: SENDTEXT
+	Name:           RAZAN DIAA
+	Phone Number:   0509266461
+	Number Texted:  0502787060
+	Text Cost:      0.08
+	New Balance:    28.72
+
+Command: PAYBILL
+	Name:          HARITH YUSUF
+	Phone Number:  0506871108
+	Balance:       30.00
+
+Command: DELETECUSTOMER
+	Name:          HARITH YUSUF
+	Customer ID:   1120347
+	Phone Number:  0506871108
+	Balance:       30.00
+	***Account has been deleted.
+
+Command: MAKECALL
+	Cannot perform MAKECALL. Account does not exist in FCIT Mobile System.
+
+Command: MAKECALL
+	Name:           LAILA KAMEL
+	Phone Number:   0502973034
+	Number Called:  0505990441
+	Call Duration:  22 minutes
+	Call Cost:      4.40
+	New Balance:    25.60
+
+Command: MAKECALL
+	Name:           LAMYAA RAOUF
+	Phone Number:   0501957682
+	Number Called:  0506402946
+	Call Duration:  13 minutes
+	Call Cost:      2.60
+	New Balance:    27.40
+
+Command: MAKECALL
+	Name:           MONA DAWOOD
+	Phone Number:   0508245146
+	Number Called:  0502463692
+	Call Duration:  53 minutes
+	Call Cost:      10.60
+	New Balance:    19.40
+
+Command: ADDCUSTOMER
+	Name:          HARON AWNI
+	Customer ID:   1111231
+	Phone Number:  0504171165
+	Balance:       30.00
+
+Command: MAKECALL
+	Name:           KHALED HELALl
+	Phone Number:   0501059796
+	Number Called:  0504374486
+	Call Duration:  30 minutes
+	Call Cost:      6.00
+	New Balance:    15.40
+
+Command: MAKECALL
+	Name:           RAZAN DIAA
+	Phone Number:   0509266461
+	Number Called:  0502644016
+	Call Duration:  23 minutes
+	Call Cost:      4.60
+	New Balance:    24.12
+
+Command: SENDTEXT
+	Name:           HARON AWNI
+	Phone Number:   0504171165
+	Number Texted:  0506277263
+	Text Cost:      0.08
+	New Balance:    29.92
+
+Command: MAKECALL
+	Name:           LAILA KAMEL
+	Phone Number:   0502973034
+	Number Called:  0504687286
+	Call Duration:  35 minutes
+	Call Cost:      7.00
+	New Balance:    18.60
+
+Command: MAKECALL
+	Name:           HARON AWNI
+	Phone Number:   0504171165
+	Number Called:  0509279070
+	Call Duration:  43 minutes
+	Call Cost:      8.60
+	New Balance:    21.32
+
+Command: SEARCH
+	Name:          LAILA KAMEL
+	Customer ID:   1115035
+	Phone Number:  0502973034
+	Balance:       18.60
+
+Command: MAKECALL
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Called:  0508714835
+	Call Duration:  4 minutes
+	Call Cost:      0.80
+	New Balance:    4.92
+
+Command: MAKECALL
+	Name:           MONA DAWOOD
+	Phone Number:   0508245146
+	Number Called:  0506242236
+	Call Duration:  55 minutes
+	Call Cost:      11.00
+	New Balance:    8.40
+
+Command: MAKECALL
+	Name:           RAZAN DIAA
+	Phone Number:   0509266461
+	Number Called:  0501119833
+	Call Duration:  7 minutes
+	Call Cost:      1.40
+	New Balance:    22.72
+
+Command: MAKECALL
+	Name:           HARON AWNI
+	Phone Number:   0504171165
+	Number Called:  0509400023
+	Call Duration:  60 minutes
+	Call Cost:      12.00
+	New Balance:    9.32
+
+Command: MAKECALL
+	Name:           LAMYAA RAOUF
+	Phone Number:   0501957682
+	Number Called:  0506728011
+	Call Duration:  75 minutes
+	Call Cost:      15.00
+	New Balance:    12.40
+
+Command: DELETECUSTOMER
+	Name:          LAILA KAMEL
+	Customer ID:   1115035
+	Phone Number:  0502973034
+	Balance:       18.60
+	***Account has been deleted.
+
+Command: SEARCH
+	Cannot perform SEARCH. Account does not exist in FCIT Mobile System.
+
+Command: SENDTEXT
+	Name:           MONA DAWOOD
+	Phone Number:   0508245146
+	Number Texted:  0506728011
+	Text Cost:      0.08
+	New Balance:    8.32
+
+Command: MAKECALL
+	Name:           HARON AWNI
+	Phone Number:   0504171165
+	Number Called:  0506418280
+	Call Duration:  46 minutes
+	Call Cost:      9.20
+	New Balance:    0.12
+	***Call terminated due to low balance.
+
+Command: MAKECALL
+	Name:           RAZAN DIAA
+	Phone Number:   0509266461
+	Number Called:  0506242236
+	Call Duration:  17 minutes
+	Call Cost:      3.40
+	New Balance:    19.32
+
+Command: SEARCH
+	Name:          WESAL DAWOOD
+	Customer ID:   1112777
+	Phone Number:  0506159247
+	Balance:       4.92
+
+Command: MAKECALL
+	Name:           MONA DAWOOD
+	Phone Number:   0508245146
+	Number Called:  0506242236
+	Call Duration:  41 minutes
+	Call Cost:      8.20
+	New Balance:    0.12
+	***Call terminated due to low balance.
+
+Command: MAKECALL
+	Cannot perform MAKECALL. Account does not have enough balance.
+
+Command: SENDTEXT
+	Name:           HARON AWNI
+	Phone Number:   0504171165
+	Number Texted:  0501119833
+	Text Cost:      0.08
+	New Balance:    0.04
+
+Command: DISPLAYDETAILS
+	Name:           HARON AWNI
+	Customer ID:    1111231
+	Phone Number:   0504171165
+	Called Numbers and Duration:
+	0509279070 (43)
+	0509400023 (60)
+	0506418280 (46)
+	Texted Numbers:
+	0501119833
+	0506277263
+
+Command: SENDTEXT
+	Name:           JAMAL SAFAR
+	Phone Number:   0502954918
+	Number Texted:  0507315404
+	Text Cost:      0.08
+	New Balance:    29.92
+
+Command: MAKECALL
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Called:  0501884692
+	Call Duration:  24 minutes
+	Call Cost:      4.80
+	New Balance:    0.12
+	***Call terminated due to low balance.
+
+Command: SENDTEXT
+	Name:           WESAL DAWOOD
+	Phone Number:   0506159247
+	Number Texted:  0507315404
+	Text Cost:      0.08
+	New Balance:    0.04
+
+Command: MAKECALL
+	Cannot perform MAKECALL. Account does not have enough balance.
+
+Command: PAYBILLS
+	The following bills have been paid:
+	>ID #1111231 (HARON AWNI)
+	>ID #1112777 (WESAL DAWOOD)
+
+Command: DISPLAYDETAILS
+	Name:           HARON AWNI
+	Customer ID:    1111231
+	Phone Number:   0504171165
+	Called Numbers and Duration:
+		(user has not made any calls yet)
+	Texted Numbers:
+		(user has not made any calls yet)
+
+Command: MAKECALL
+	Name:           HARON AWNI
+	Phone Number:   0504171165
+	Number Called:  0509237028
+	Call Duration:  7 minutes
+	Call Cost:      1.40
+	New Balance:    28.60
+
+Command: DISPLAYDETAILS
+	Name:           JAMAL SAFAR
+	Customer ID:    1118970
+	Phone Number:   0502954918
+	Called Numbers and Duration:
+		(user has not made any calls yet)
+	Texted Numbers:
+	0507315404
+
+Command: QUIT.
+	Exiting the FCIT Mobile System...
+	Goodbye.
